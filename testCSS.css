@@ -1,0 +1,7 @@
+li.banana,
+p.banana {
+    list-style-type: square;
+    color: sienna;
+    font-weight: bold;
+    font-size: larger;
+}

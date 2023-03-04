@@ -1,0 +1,29 @@
+html {
+    font-family: sans-serif;
+  }
+
+body {
+    font-size: 20px;
+}
+
+  
+  /* Your CSS below here */
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border: 1px solid rgba(red, 0, 0, dark);
+    background-color: red;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    margin-top: 0%;
+    color: white;
+    text-shadow: 5px 5px 5px black
+}
